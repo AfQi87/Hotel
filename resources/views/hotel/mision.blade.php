@@ -1,7 +1,7 @@
 @extends('layouts.master')
 @section('content')
 	<h1 style="color: #267BF0">Misión </h1>
-	<img src="{{ url('/images/img1.jpg')}}" style="width: 500px;height:300px;margin-left: 700px;" alt="No Cargo la Imagen">
+	<img src="{{ url('/images/img2.jpg')}}" style="width: 500px;height:300px;margin-left: 700px;" alt="No Cargo la Imagen">
     <p style="text-align: justify;margin-right: 450px;margin-top: -300PX;">
     	La misión del Hotel boutique es poner los servicios de hospitalidad al más alto nivel para satisfacer las demandas y expectativas de los huéspedes. Nuestro objetivo es hacer del Hotel un lugar para encuentros, éxito empresarial, agradables reuniones y ceremonias de gala.
     </p>
